@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I'm currently doing the master's course in computer science at the university of milan
+- 📫 You can find more detailed info about me [here](https://tomgeek27.github.io/portfolio)
+
 <!--
 **tomgeek27/tomgeek27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
