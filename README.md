@@ -8,7 +8,7 @@ My name is Tommaso Amadori and I live in Milan, Italy!
 
 ### Tools and languages
 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--BS2AeHHe--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/q1dbr8bdaqoxg6gz04i8.png" />][github]
 
 <!--
 **tomgeek27/tomgeek27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
