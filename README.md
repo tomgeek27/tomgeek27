@@ -4,6 +4,11 @@ My name is Tommaso Amadori and I live in Milan, Italy!
 
 - 🎓 I'm currently doing the master's course in computer science at the Universita\` degli studi di Milano
 - 📫 You can find more detailed info about me at my [personal website](https://tomgeek27.github.io/portfolio)
+- 🎯 Love programming
+
+### Tools and languages
+
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 
 <!--
 **tomgeek27/tomgeek27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
